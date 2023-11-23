@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# 3D-Tutorial
+
+[https://britneymuk.github.io/3D-Tutorial/](https://britneymuk.github.io/3D-Tutorial/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Screenshot
+![Screenshot](https://github.com/britneymuk/3D-Tutorial/blob/main/Screenshots/Mainpage1.gif)
+![Screenshot](https://github.com/britneymuk/3D-Tutorial/blob/main/Screenshots/Mainpage2.gif)
 
 ## Available Scripts
 
